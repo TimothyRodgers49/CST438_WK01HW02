@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CST438 WK01HW02</string>
+    <string name="username">Username</string>
+    <string name="loginButton">Login</string>
+</resources>
