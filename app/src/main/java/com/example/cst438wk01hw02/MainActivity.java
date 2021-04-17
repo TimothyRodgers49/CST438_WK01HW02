@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mEditTextUsername;
     private EditText mEditTextPassword;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
